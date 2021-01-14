@@ -1,2 +1,2 @@
-# bissection method calculator
-# created for linear algebra
+bissection method calculator
+created for linear algebra
